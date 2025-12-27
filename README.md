@@ -99,10 +99,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots here*
-
 ---
 
 ## 🤝 Contributors
@@ -125,11 +121,3 @@ If you find this project useful, please give it a ⭐ on GitHub.
 ```
 
 ---
-
-If you want, I can also:
-- ✅ Optimize this README for **TCS / interview projects**
-- ✅ Add **Render deployment badge**
-- ✅ Write a **project description for resume / LinkedIn**
-
-Just tell me 👍
-```
