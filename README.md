@@ -1,5 +1,4 @@
-Below is the **FULL README.md in copy-paste form**.
-Just **select all → copy → paste into README.md → commit**.
+
 
 ---
 
